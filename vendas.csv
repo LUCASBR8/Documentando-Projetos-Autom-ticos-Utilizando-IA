@@ -1,0 +1,16 @@
+Data,Produto,Região,Quantidade Vendida,Receita
+2024-01-01,Produto A,Norte,50,1500
+2024-01-01,Produto B,Sul,60,1800
+2024-01-01,Produto C,Leste,40,1200
+2024-01-02,Produto A,Norte,55,1650
+2024-01-02,Produto B,Sul,70,2100
+2024-01-02,Produto C,Leste,45,1350
+2024-01-03,Produto A,Norte,60,1800
+2024-01-03,Produto B,Sul,80,2400
+2024-01-03,Produto C,Leste,50,1500
+2024-01-04,Produto A,Norte,65,1950
+2024-01-04,Produto B,Sul,90,2700
+2024-01-04,Produto C,Leste,55,1650
+2024-01-05,Produto A,Norte,70,2100
+2024-01-05,Produto B,Sul,100,3000
+2024-01-05,Produto C,Leste,60,1800
